@@ -1,0 +1,16 @@
+/* External styles */
+body {
+    background-color: #7c676b;
+    font-family: 'Times New Roman', serif;
+}
+
+
+h1 {
+    color: #f4d007;
+    text-align: center;
+}
+
+footer {
+    color: #31c4a9;
+    font-size: 14px;
+}
